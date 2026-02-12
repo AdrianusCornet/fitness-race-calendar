@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="nl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fitness Race Kalender</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div>
+        <p class="eyebrow">2026 season</p>
+        <h1>Kalender voor aankomende fitness races</h1>
+        <p>
+          Vind snel events zoals HYROX, DEKA, Turf Games en andere functionele
+          fitness races in Nederland en daarbuiten.
+        </p>
+      </div>
+      <a class="cta" href="#events">Bekijk events</a>
+    </header>
+
+    <main>
+      <section class="controls" aria-label="Filters">
+        <label>
+          Zoek op locatie of event
+          <input id="search" type="search" placeholder="Bijv. Amsterdam of HYROX" />
+        </label>
+        <label>
+          Type race
+          <select id="typeFilter">
+            <option value="all">Alle types</option>
+          </select>
+        </label>
+        <label>
+          Land
+          <select id="countryFilter">
+            <option value="all">Alle landen</option>
+          </select>
+        </label>
+      </section>
+
+      <section id="calendar" class="month-grid" aria-label="Maandoverzicht"></section>
+
+      <section id="events" class="events" aria-live="polite"></section>
+    </main>
+
+    <footer>
+      <p>
+        Tip: controleer altijd de officiële eventwebsite voor actuele data,
+        kwalificatienormen en ticketinformatie.
+      </p>
+    </footer>
+
+    <template id="eventCardTemplate">
+      <article class="event-card">
+        <div class="event-date"></div>
+        <div class="event-content">
+          <h3></h3>
+          <p class="event-meta"></p>
+          <p class="event-description"></p>
+          <a target="_blank" rel="noreferrer noopener">Naar event</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="script.js"></script>
+  </body>
+</html>
