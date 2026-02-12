@@ -1,0 +1,101 @@
+[
+  {
+    "name": "HYROX Rotterdam",
+    "type": "HYROX",
+    "country": "Nederland",
+    "city": "Rotterdam",
+    "date": "2026-02-22",
+    "description": "Indoor race met runs en functionele stations voor solo en doubles.",
+    "link": "https://hyrox.com/event/hyrox-rotterdam/"
+  },
+  {
+    "name": "DEKA FIT Madrid",
+    "type": "DEKA",
+    "country": "Spanje",
+    "city": "Madrid",
+    "date": "2026-03-14",
+    "description": "10 fitness zones op vaste afstanden in een compacte arena-opzet.",
+    "link": "https://deka.fit/"
+  },
+  {
+    "name": "HYROX Amsterdam",
+    "type": "HYROX",
+    "country": "Nederland",
+    "city": "Amsterdam",
+    "date": "2026-03-28",
+    "description": "Groot city event met open en pro divisies.",
+    "link": "https://hyrox.com/event/hyrox-amsterdam/"
+  },
+  {
+    "name": "Turf Games Summer Festival",
+    "type": "Turf Games",
+    "country": "Verenigd Koninkrijk",
+    "city": "Londen",
+    "date": "2026-04-18",
+    "description": "Team-based functionele fitness competitie met meerdere workouts.",
+    "link": "https://turfgames.com/"
+  },
+  {
+    "name": "AthX Challenge Berlin",
+    "type": "AthX",
+    "country": "Duitsland",
+    "city": "Berlijn",
+    "date": "2026-05-09",
+    "description": "Urban fitness race met running, carry en strength onderdelen.",
+    "link": "https://www.athxgames.com/"
+  },
+  {
+    "name": "HYROX Hamburg",
+    "type": "HYROX",
+    "country": "Duitsland",
+    "city": "Hamburg",
+    "date": "2026-05-30",
+    "description": "Klassieke HYROX race met veel internationale deelnemers.",
+    "link": "https://hyrox.com/event/hyrox-hamburg/"
+  },
+  {
+    "name": "Spartan DEKA MILE Paris",
+    "type": "DEKA",
+    "country": "Frankrijk",
+    "city": "Parijs",
+    "date": "2026-06-13",
+    "description": "Combinatie van 10 DEKA zones met 1600 meter tussenstukken.",
+    "link": "https://deka.fit/"
+  },
+  {
+    "name": "HYROX Brussels",
+    "type": "HYROX",
+    "country": "België",
+    "city": "Brussel",
+    "date": "2026-07-11",
+    "description": "Zomereditie met open, doubles en relay categorieën.",
+    "link": "https://hyrox.com/event/hyrox-brussels/"
+  },
+  {
+    "name": "Turf Games Autumn Throwdown",
+    "type": "Turf Games",
+    "country": "Nederland",
+    "city": "Utrecht",
+    "date": "2026-09-19",
+    "description": "Scaled en RX teamdivisies in een eendaags toernooi.",
+    "link": "https://turfgames.com/"
+  },
+  {
+    "name": "HYROX Maastricht",
+    "type": "HYROX",
+    "country": "Nederland",
+    "city": "Maastricht",
+    "date": "2026-10-10",
+    "description": "Najaarsrace met qualifiers voor internationale kampioenschappen.",
+    "link": "https://hyrox.com/event/hyrox-maastricht/"
+  },
+  {
+    "name": "Fitness Race Festival Copenhagen",
+    "type": "Mixed",
+    "country": "Denemarken",
+    "city": "Kopenhagen",
+    "date": "2026-11-07",
+    "description": "Meerdere raceformats op één locatie met open heats.",
+    "link": "https://www.visitcopenhagen.com/"
+  }
+]
